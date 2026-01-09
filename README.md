@@ -1,4 +1,4 @@
-# Olá, 
+# Olá, sou Camila 👋🏼
 ### 📊 Em transição para Análise de Dados | Python | SQL
 
 Estou migrando para a área de dados, apaixonada por descobrir as histórias por trás dos números. Atualmente, concilio a graduação em **Banco de Dados** com o bootcamp intensivo de Data Analytics da **TripleTen**.
